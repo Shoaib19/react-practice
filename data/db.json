@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Exploring Nature's Wonders",
+      "body": "Discover the beauty of nature as we embark on a journey through lush landscapes and breathtaking vistas.",
+      "author": "Alice",
+      "id": "1"
+    },
+    {
+      "title": "The Art of Culinary Creations",
+      "body": "Delve into the world of gastronomy and explore the secrets behind crafting exquisite dishes that tantalize the taste buds.",
+      "author": "Bob",
+      "id": "2"
+    },
+    {
+      "id": "e795",
+      "title": "new",
+      "body": "new",
+      "author": "John"
+    }
+  ]
+}
